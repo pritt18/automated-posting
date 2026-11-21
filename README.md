@@ -277,6 +277,16 @@ pytest tests/ -v
 
 ---
 
+## Screenshots & Verification
+
+### Interactive API Documentation (`/docs`)
+![Swagger API Documentation](docs/screenshots/swagger_docs.png)
+
+### Service Health Check (`/health`)
+![Service Health Check](docs/screenshots/health_check.png)
+
+---
+
 ## Supported Platform Integrations
 
 1. **Telegram**:
